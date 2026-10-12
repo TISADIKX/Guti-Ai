@@ -1,0 +1,7 @@
+{
+  "name": "Launch Your Journey",
+  "description": "Interactive platform featuring brand customization with custom website logo upload, seamless Discord authentication, and dynamic launch experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

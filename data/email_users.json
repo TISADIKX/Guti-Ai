@@ -1,0 +1,29 @@
+[
+  {
+    "id": "usr_1791652766398_4249078c",
+    "email": "testuser@gutiai.io",
+    "name": "testuser",
+    "passwordHash": "a2bb5c67f57b9993c58a65799b78125e809d3c6e9af3792f1184d5b2aa64a62e81ca42fb0b0d159ac946b242a5d3b40472875ce3fbab43c45581c0c8f4545b83",
+    "salt": "9c2dc10438cc4de944c849f187bd4bf5",
+    "createdAt": "2026-10-10T17:19:26.398Z",
+    "lastLoginAt": "2026-10-10T17:27:10.206Z"
+  },
+  {
+    "id": "usr_1791694565526_e6e73495",
+    "email": "gamertisk@gmail.com",
+    "name": "gamertisk",
+    "passwordHash": "a16d2105bf21507d1749972852a971c55560345c5c2bdcae92999b592a3d7d67f56bea42acc2ae8ad5555fc444d0ef5567f6e1ef81163f4cd8590ae0b6a954a5",
+    "salt": "28060ffecb026a076c8fcfb59430bc4a",
+    "createdAt": "2026-10-11T04:56:05.526Z",
+    "lastLoginAt": "2026-10-11T16:06:49.658Z"
+  },
+  {
+    "id": "usr_1791734511745_f0bee5bf",
+    "email": "creative@gutiai.io",
+    "name": "creative",
+    "passwordHash": "6b108c197e5259ff3cfb6b12e42e28159b660129129b4099c03657ec3dbe6212c7d4819e0e24ef072dada0c460ea051f1af5942b18512a049d3f8875462f8fdc",
+    "salt": "7a1dff72c21b65d4e0a5617946e30d2b",
+    "createdAt": "2026-10-11T16:01:51.746Z",
+    "lastLoginAt": "2026-10-11T16:01:56.796Z"
+  }
+]
